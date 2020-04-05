@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "ex2_42_sales_data.h"
+#include "exe2_42_sales_data.h"
 
 int main()
 {
