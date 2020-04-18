@@ -54,5 +54,18 @@
         "set": "cpp",
         "iomanip": "cpp"
     },
-    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "cSpell.ignoreWords": [
+        "back",
+        "cin",
+        "cout",
+        "endl",
+        "i",
+        "if",
+        "num",
+        "nums",
+        "push",
+        "std",
+        "while"
+    ]
 }
