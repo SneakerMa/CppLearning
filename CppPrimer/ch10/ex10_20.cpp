@@ -9,7 +9,7 @@
  *    counted how many words are greater than length 6.
  *  @author: pezy
  *  @date:  2016-07-01
- *  @see:   [Implicit Captures] - biggies funciton.
+ *  @see:   [Implicit Captures] - biggies function.
  */
 
 #include <algorithm>
